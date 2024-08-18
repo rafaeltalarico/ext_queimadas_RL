@@ -1,6 +1,7 @@
 from Prediction.constants import VERIFY_YEARS_COUNT
 from datetime import datetime
 
+
 class CityModel:
 
     def __init__(self, name):
